@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: 86eeb82d408c4154d85acd0b1efc9d17
+timeCreated: 1447148087
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mainsprites2_0
+    21300002: mainsprites2_1
+    21300004: mainsprites2_2
+    21300006: mainsprites2_3
+    21300008: mainsprites2_5
+    21300010: mainsprites2_6
+    21300012: mainsprites2_7
+    21300014: mainsprites2_9
+    21300016: mainsprites2_10
+    21300018: mainsprites2_12
+    21300020: mainsprites2_13
+    21300022: mainsprites2_14
+    21300024: mainsprites2_15
+    21300026: mainsprites2_16
+    21300028: mainsprites2_17
+    21300030: mainsprites2_18
+    21300032: mainsprites2_19
+    21300034: mainsprites2_20
+    21300036: mainsprites2_4
+    21300038: mainsprites2_8
+    21300040: mainsprites2_11
+    21300042: mainsprites2_21
+    21300044: mainsprites2_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: mainsprites2_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3552
+        width: 348
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_1
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 3555
+        width: 348
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_2
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 3751
+        width: 348
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_3
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 3751
+        width: 348
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3013
+        width: 348
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_6
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 3208
+        width: 348
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_7
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 3208
+        width: 348
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2520
+        width: 348
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_10
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2669
+        width: 348
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_12
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 2519
+        width: 330
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1979
+        width: 330
+        height: 496
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_14
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1976
+        width: 332
+        height: 499
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_15
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1979
+        width: 332
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1437
+        width: 330
+        height: 496
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_17
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1437
+        width: 332
+        height: 496
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_18
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1437
+        width: 330
+        height: 496
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 895
+        width: 330
+        height: 498
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_20
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 896
+        width: 332
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_4
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1981
+        width: 330
+        height: 496
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_8
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 2512
+        width: 330
+        height: 496
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_11
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 3058
+        width: 330
+        height: 496
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_21
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 3017
+        width: 348
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainsprites2_22
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 3570
+        width: 330
+        height: 405
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
